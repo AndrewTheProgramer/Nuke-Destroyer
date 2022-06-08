@@ -1,0 +1,8 @@
+Thank you for donwloading Nuke Destroyer, this is how to open it
+
+step 1: open the Nuke Destoyer folder
+step 2: open the file Nuke Destoyer
+step 3: if it asks you for admin privlages (which I don't think it will), allow them
+
+if you need to close it, hitting the x icon wont work, you need to right click the taskbar icon,
+then left click close all windows

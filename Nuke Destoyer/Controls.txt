@@ -1,0 +1,28 @@
+Thank you for downloading Nuke Destroyer, these are instructions on how to play.
+
+
+To aim, point your mouse at an enemy missile (don't forget the enemy missile will
+keep moving)
+
+To fire, left click or space bar, they both work
+
+To exit the game, hit esc
+
+To pause the game, hit p
+
+Objective:
+  The objective of the game is to protect the cities (the yellow dots), there are 
+  6 cities, if a city gets hit by a nuke, the city will be destroyed, when a city
+  is destroyed, you do not lose any points, but when all 6 cities are destroyed,
+  the game is over. BE CAREFUL NOT TO HIT YOUR CITIES, THERE IS FRIENDLY FIRE IN
+  THIS GAME. each missile you destroy grants you 10 points, be careful how much
+  you fire tho, you get 30 ammo each round of enemy missiles, after the round ends
+  you reset back to 30 ammo. If an enemy missile hits you (the turret), don't worry,
+  that doesn't mean game over, but you cannot fire while you are in an enemy missiles
+  explosion. after each round of enemy missiles, the number of enemy missiles will
+  increase, after all, the game does need to get harder as you progress.
+
+
+When you open the game, it will show you a high score screen, these scores ARE NOT
+REAL, some of the names are nomes of some people I know tho. The scores are just
+to give you a goal. But when you see this screen, press the spacebar.
